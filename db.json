@@ -33,6 +33,18 @@
       "active": true
     }
   ],
+    "attempts": [
+    {
+      "id": "a1",
+      "score": 5,
+      "userId": "qwerty"
+    },
+    {
+      "id": "999",
+      "score": 8,
+      "userId": "qwerty"
+    }
+  ]
   "comments": [
     {
       "id": 1,
