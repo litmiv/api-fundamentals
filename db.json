@@ -13,6 +13,26 @@
       "title": "Post 3"
     }
   ],
+    "users": [
+    {
+      "id": "123abc",
+      "username": "User 1",
+      "score": 55,
+      "active": true
+    },
+    {
+      "id": "xyz123",
+      "username": "User 1",
+      "score": 55,
+      "active": true
+    },
+    {
+      "id": "qwerty",
+      "username": "User 1",
+      "score": 55,
+      "active": true
+    }
+  ],
   "comments": [
     {
       "id": 1,
